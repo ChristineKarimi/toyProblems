@@ -26,3 +26,7 @@ def is_prime(n):
             return False
 	#return True if the number is prime
     return True
+
+
+def is_prime(n):
+	return n>=2 and all([n%i!=0 for i in range(2,1+int(n**.5))]) #the simplicity in list comprehension
