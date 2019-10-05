@@ -1,1 +1,1 @@
-[a link](https://projecteuler.net/archives)
+[projecteuler.net](https://projecteuler.net/archives)
