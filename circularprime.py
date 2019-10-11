@@ -8,7 +8,7 @@
 
 # SOLUTION
 # --------
-def euler35(limit = 100000):
+def circular_prime(limit = 100000):
     count = 0
     prime_set = set(get_primes(limit))
     for r in prime_set:
